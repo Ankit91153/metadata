@@ -1,6 +1,5 @@
 {
-
-"version": 3,
-    "downloadAndroidUrl": "https://firebasestorage.googleapis.com/v0/b/ota-demo-68f38.appspot.com/o/index.android.bundle.zip?alt=media",
-    "downloadIosUrl": "https://firebasestorage.googleapis.com/v0/b/ota-demo-68f38.appspot.com/o/main.jsbundle.zip?alt=media"
+    "version": 1,
+    "downloadAndroidUrl": "https://drive.google.com/file/d/17Isot807CKCYTBoTryaU4CbzF5-87okn/view?usp=drive_link",
+    "downloadIosUrl": "https://drive.google.com/file/d/1gQ8aAUlCtl5fNsJBsPnF1wliP4V5iIlH/view?usp=drive_link"
   }
