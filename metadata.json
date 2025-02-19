@@ -1,11 +1,6 @@
 {
 
-    "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/Security/image.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Security"
-      }
-    ]
+"version": 1,
+    "downloadAndroidUrl": "https://firebasestorage.googleapis.com/v0/b/ota-demo-68f38.appspot.com/o/index.android.bundle.zip?alt=media",
+    "downloadIosUrl": "https://firebasestorage.googleapis.com/v0/b/ota-demo-68f38.appspot.com/o/main.jsbundle.zip?alt=media"
   }
